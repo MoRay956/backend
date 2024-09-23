@@ -32,7 +32,7 @@ defusedxml==0.7.1
 distro==1.9.0
 docopt==0.6.2
 docstring_parser==0.16
-duckduckgo_search==6.2.11
+duckduckgo-search @ https://files.pythonhosted.org/packages/e1/c5/5eaff940cf0d9a6d080397d07d7071eafa6c191af5e34f1da9776b3094f9/duckduckgo_search-6.2.12-py3-none-any.whl
 emoji==2.12.1
 fastavro==1.9.4
 feedfinder2==0.0.4
@@ -135,7 +135,7 @@ pandas==2.2.2
 parameterized==0.9.0
 pillow==10.3.0
 playwright==1.44.0
-primp==0.6.1
+primp==0.6.2
 proto-plus==1.24.0
 protobuf==4.25.3
 pyarrow==16.1.0
