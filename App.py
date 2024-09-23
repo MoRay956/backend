@@ -15,7 +15,7 @@ load_dotenv()
 app = Flask(__name__)
 
 # Configurar CORS para permitir solicitudes desde tu frontend
-CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
+CORS(app, resources={r"/*": {"origins": "http://localhost:8080"}})
 
 # Inicializar Firebase usando variables de entorno
 service_account_info = {
